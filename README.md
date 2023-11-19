@@ -1,1 +1,1 @@
-# chromecast-images-archive
+# An archive of Google Chromecast background images.
